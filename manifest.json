@@ -1,0 +1,14 @@
+{
+  "launcher_version": "1.0.0",
+  "minecraft_version": "1.21.1",
+  "loader_type": "NeoForge",
+  "loader_version": "21.1.65",
+  "mods": [
+    {
+      "name": "Just Enough Items",
+      "filename": "jei-1.21.1-19.16.0.4.jar",
+      "download_url": "https://raw.githubusercontent.com/ТВОЙ_НИК/ИМЯ_РЕПО/main/mods/jei-1.21.1-19.16.0.4.jar",
+      "sha1": "7c12237d238348271a2bc4112e52462e71cf602b"
+    }
+  ]
+}
