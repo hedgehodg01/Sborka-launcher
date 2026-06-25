@@ -2,7 +2,6 @@
   "Version": "1.21.1-neoforge-21.1.233",
   "Files": [
     { "RemoteUrl": "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/core/1.21.1-neoforge-21.1.233.json", "LocalPath": "versions/1.21.1-neoforge-21.1.233/1.21.1-neoforge-21.1.233.json" },
-    { "RemoteUrl": "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/ClientMod1.jar", "LocalPath": "mods/ClientMod1.jar" },
-    { "RemoteUrl": "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/ClientMod2.jar", "LocalPath": "mods/ClientMod2.jar" }
+    { "RemoteUrl": "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar", "LocalPath": "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar" },
   ]
 }
