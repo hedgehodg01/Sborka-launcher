@@ -1,7 +1,25 @@
 {
   "Version": "1.21.1-neoforge-21.1.233",
   "Files": [
-    { "RemoteUrl": "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/core/1.21.1-neoforge-21.1.233.json", "LocalPath": "versions/1.21.1-neoforge-21.1.233/1.21.1-neoforge-21.1.233.json" },
-    { "RemoteUrl": "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar", "LocalPath": "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar" },
+    {
+      "RemoteUrl": "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/core/versions/1.21.1-neoforge-21.1.233/1.21.1-neoforge-21.1.233.json",
+      "LocalPath": "versions/1.21.1-neoforge-21.1.233/1.21.1-neoforge-21.1.233.json"
+    },
+    {
+      "RemoteUrl": "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/core/libraries/net/neoforged/neoforge/21.1.233/neoforge-21.1.233-client.jar",
+      "LocalPath": "libraries/net/neoforge/neoforge/21.1.233/neoforge-21.1.233-client.jar"
+    },
+    {
+      "RemoteUrl": "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/core/libraries/net/neoforged/neoforge/21.1.233/neoforge-21.1.233-universal.jar",
+      "LocalPath": "libraries/net/neoforge/neoforge/21.1.233/neoforge-21.1.233-universal.jar"
+    },
+    {
+      "RemoteUrl": "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/JustEnoughItems.jar",
+      "LocalPath": "mods/JustEnoughItems.jar"
+    },
+    {
+      "RemoteUrl": "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/JourneyMap.jar",
+      "LocalPath": "mods/JourneyMap.jar"
+    }
   ]
 }
