@@ -592,7 +592,58 @@
                   {
                       "LocalPath":  "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+                  },
+                  {
+                      "LocalPath":  "config/paxi/datapack_load_order.json",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/config/paxi/datapack_load_order.json"
+                  },
+                  {
+                      "LocalPath":  "config/paxi/resourcepack_load_order.json",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/config/paxi/resourcepack_load_order.json"
+                  },
+                  {
+                      "LocalPath":  "config/paxi/resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/config/paxi/resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
+                  },
+                  {
+                      "LocalPath":  "config/paxi/resourcepacks/FreshAnimations_v1.10.4.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/config/paxi/resourcepacks/FreshAnimations_v1.10.4.zip"
+                  },
+                  {
+                      "LocalPath":  "kubejs/README.txt",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/kubejs/README.txt"
+                  },
+                  {
+                      "LocalPath":  "kubejs/client_scripts/main.js",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/kubejs/client_scripts/main.js"
+                  },
+                  {
+                      "LocalPath":  "kubejs/config/client.json",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/kubejs/config/client.json"
+                  },
+                  {
+                      "LocalPath":  "kubejs/config/common.json",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/kubejs/config/common.json"
+                  },
+                  {
+                      "LocalPath":  "kubejs/config/packicon.png",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/kubejs/config/packicon.png"
+                  },
+                  {
+                      "LocalPath":  "kubejs/config/web_server.json",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/kubejs/config/web_server.json"
+                  },
+                  {
+                      "LocalPath":  "kubejs/server_scripts/CreateCrafts.js",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/kubejs/server_scripts/CreateCrafts.js"
+                  },
+                  {
+                      "LocalPath":  "kubejs/server_scripts/main.js",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/kubejs/server_scripts/main.js"
+                  },
+                  {
+                      "LocalPath":  "kubejs/startup_scripts/main.js",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/kubejs/startup_scripts/main.js"
                   }
               ]
 }
-
