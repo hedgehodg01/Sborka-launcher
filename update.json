@@ -2,12 +2,132 @@
     "Version":  "1.21.1-neoforge-21.1.233",
     "Files":  [
                   {
-                      "LocalPath":  "assets.zip",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets.zip"
+                      "LocalPath":  "assets_indexes_part1.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_indexes_part1.zip"
                   },
                   {
-                      "LocalPath":  "libraries.zip",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/libraries.zip"
+                      "LocalPath":  "assets_objects_part1.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part1.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part2.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part2.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part3.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part3.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part4.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part4.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part5.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part5.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part6.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part6.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part7.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part7.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part8.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part8.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part9.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part9.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part10.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part10.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part11.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part11.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part12.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part12.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part13.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part13.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part14.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part14.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part15.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part15.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part16.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part16.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part17.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part17.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part18.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part18.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part19.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part19.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part20.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part20.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part21.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part21.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part22.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part22.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part23.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part23.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part24.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part24.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part25.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part25.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part26.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part26.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part27.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part27.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part28.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part28.zip"
+                  },
+                  {
+                      "LocalPath":  "assets_objects_part29.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/assets_objects_part29.zip"
+                  },
+                  {
+                      "LocalPath":  "libraries_part1.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/libraries_part1.zip"
+                  },
+                  {
+                      "LocalPath":  "libraries_part2.zip",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/libraries_part2.zip"
                   },
                   {
                       "LocalPath":  "libraries/com/electronwill/night-config/core/3.8.3/core-3.8.3.jar",
