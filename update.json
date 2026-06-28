@@ -772,6 +772,10 @@
                   {
                       "LocalPath":  "kubejs/startup_scripts/main.js",
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/kubejs/startup_scripts/main.js"
+                  },
+                  {
+                      "LocalPath":  "mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar"
                   }
               ]
 }
