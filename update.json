@@ -482,24 +482,28 @@
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/architectury-13.0.8-neoforge.jar"
                   },
                   {
-                      "LocalPath":  "mods/balm-neoforge-1.21.1-21.0.59.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/balm-neoforge-1.21.1-21.0.59.jar"
+                      "LocalPath":  "mods/balm-neoforge-1.21.1-21.0.62.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/balm-neoforge-1.21.1-21.0.62.jar"
                   },
                   {
                       "LocalPath":  "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/bookshelf-neoforge-1.21.1-21.1.81.jar"
                   },
                   {
-                      "LocalPath":  "mods/CBCmoreshells-1.1.5.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/CBCmoreshells-1.1.5.jar"
+                      "LocalPath":  "mods/CBCmoreshells-1.1.6.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/CBCmoreshells-1.1.6.jar"
                   },
                   {
-                      "LocalPath":  "mods/cc-tweaked-1.21.1-forge-1.119.0.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/cc-tweaked-1.21.1-forge-1.119.0.jar"
+                      "LocalPath":  "mods/cc-tweaked-1.21.1-forge-1.120.0.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/cc-tweaked-1.21.1-forge-1.120.0.jar"
                   },
                   {
                       "LocalPath":  "mods/cccbridge-mc1.21.1-v1.7.3-neoforge.jar",
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/cccbridge-mc1.21.1-v1.7.3-neoforge.jar"
+                  },
+                  {
+                      "LocalPath":  "mods/clientsort-neoforge-2.2.2+1.21.1.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/clientsort-neoforge-2.2.2+1.21.1.jar"
                   },
                   {
                       "LocalPath":  "mods/cloth-config-15.0.140-neoforge.jar",
@@ -534,16 +538,32 @@
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/create-aeronautics-bundled-1.21.1-1.3.0.jar"
                   },
                   {
-                      "LocalPath":  "mods/createbigcannons-5.11.6+mc.1.21.1.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/createbigcannons-5.11.6+mc.1.21.1.jar"
+                      "LocalPath":  "mods/create-integrated-farming-1.2.6.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/create-integrated-farming-1.2.6.jar"
+                  },
+                  {
+                      "LocalPath":  "mods/createbigcannons-5.11.7+mc.1.21.1.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/createbigcannons-5.11.7+mc.1.21.1.jar"
                   },
                   {
                       "LocalPath":  "mods/createdeco-2.1.3.jar",
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/createdeco-2.1.3.jar"
                   },
                   {
+                      "LocalPath":  "mods/CreateDragonsPlus-1.11.2b.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/CreateDragonsPlus-1.11.2b.jar"
+                  },
+                  {
                       "LocalPath":  "mods/createenderlink-1.4.1+mc1.21.1-neoforge.jar",
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/createenderlink-1.4.1+mc1.21.1-neoforge.jar"
+                  },
+                  {
+                      "LocalPath":  "mods/create_radar-0.4.9.4-1.21.1.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/create_radar-0.4.9.4-1.21.1.jar"
+                  },
+                  {
+                      "LocalPath":  "mods/create_tweaked_controllers-1.21.1-1.2.7.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/create_tweaked_controllers-1.21.1-1.2.7.jar"
                   },
                   {
                       "LocalPath":  "mods/curios-neoforge-9.5.1+1.21.1.jar",
@@ -558,16 +578,16 @@
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/FarmersDelight-1.21.1-1.3.2.jar"
                   },
                   {
-                      "LocalPath":  "mods/geckolib-neoforge-1.21.1-4.8.4.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/geckolib-neoforge-1.21.1-4.8.4.jar"
+                      "LocalPath":  "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/geckolib-neoforge-1.21.1-4.9.2.jar"
                   },
                   {
                       "LocalPath":  "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/Iceberg-1.21.1-neoforge-1.3.2.jar"
                   },
                   {
-                      "LocalPath":  "mods/jei-1.21.1-neoforge-19.27.0.340.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/jei-1.21.1-neoforge-19.27.0.340.jar"
+                      "LocalPath":  "mods/jei-1.21.1-neoforge-19.38.0.366.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/jei-1.21.1-neoforge-19.38.0.366.jar"
                   },
                   {
                       "LocalPath":  "mods/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
@@ -578,8 +598,8 @@
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
                   },
                   {
-                      "LocalPath":  "mods/kotlinforforge-5.11.0-all.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/kotlinforforge-5.11.0-all.jar"
+                      "LocalPath":  "mods/kotlinforforge-5.12.0-all.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/kotlinforforge-5.12.0-all.jar"
                   },
                   {
                       "LocalPath":  "mods/kubejs-create-neoforge-2101.3.1-build.18.jar",
@@ -594,8 +614,12 @@
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/kubejsdelight-1.1.6.jar"
                   },
                   {
-                      "LocalPath":  "mods/lootr-neoforge-1.21.1-1.11.37.120.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/lootr-neoforge-1.21.1-1.11.37.120.jar"
+                      "LocalPath":  "mods/lootr-neoforge-1.21.1-1.11.37.121.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/lootr-neoforge-1.21.1-1.11.37.121.jar"
+                  },
+                  {
+                      "LocalPath":  "mods/mcwifipnp-1.9.0-1.21-neoforge.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/mcwifipnp-1.9.0-1.21-neoforge.jar"
                   },
                   {
                       "LocalPath":  "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
@@ -610,8 +634,8 @@
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/OctoLib-NEOFORGE-0.6.2+1.21.jar"
                   },
                   {
-                      "LocalPath":  "mods/open-parties-and-claims-neoforge-1.21.1-0.27.5.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/open-parties-and-claims-neoforge-1.21.1-0.27.5.jar"
+                      "LocalPath":  "mods/open-parties-and-claims-neoforge-1.21.1-0.27.6.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/open-parties-and-claims-neoforge-1.21.1-0.27.6.jar"
                   },
                   {
                       "LocalPath":  "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
@@ -646,32 +670,40 @@
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
                   },
                   {
-                      "LocalPath":  "mods/sable-neoforge-1.21.1-2.0.1.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/sable-neoforge-1.21.1-2.0.1.jar"
+                      "LocalPath":  "mods/sable-neoforge-1.21.1-2.0.3.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/sable-neoforge-1.21.1-2.0.3.jar"
                   },
                   {
                       "LocalPath":  "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/Searchables-neoforge-1.21.1-1.0.2.jar"
                   },
                   {
+                      "LocalPath":  "mods/shine-2.0.1+1.21.1-neoforge.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/shine-2.0.1+1.21.1-neoforge.jar"
+                  },
+                  {
                       "LocalPath":  "mods/SimpleBackups-1.21-4.0.30.jar",
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/SimpleBackups-1.21-4.0.30.jar"
                   },
                   {
-                      "LocalPath":  "mods/sophisticatedbackpacks-1.21.1-3.25.63.1912.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/sophisticatedbackpacks-1.21.1-3.25.63.1912.jar"
+                      "LocalPath":  "mods/sophisticatedbackpacks-1.21.1-3.25.69.1979.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/sophisticatedbackpacks-1.21.1-3.25.69.1979.jar"
                   },
                   {
-                      "LocalPath":  "mods/sophisticatedcore-1.21.1-1.4.58.2026.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/sophisticatedcore-1.21.1-1.4.58.2026.jar"
+                      "LocalPath":  "mods/sophisticatedcore-1.21.1-1.4.72.2136.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/sophisticatedcore-1.21.1-1.4.72.2136.jar"
                   },
                   {
-                      "LocalPath":  "mods/structurify-neoforge-2.0.25+mc1.21.1.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/structurify-neoforge-2.0.25+mc1.21.1.jar"
+                      "LocalPath":  "mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar"
                   },
                   {
-                      "LocalPath":  "mods/tacz-neoforge-1.21.1-1.1.8-hotfix-r1.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/tacz-neoforge-1.21.1-1.1.8-hotfix-r1.jar"
+                      "LocalPath":  "mods/structurify-neoforge-2.0.28+mc1.21.1.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/structurify-neoforge-2.0.28+mc1.21.1.jar"
+                  },
+                  {
+                      "LocalPath":  "mods/tacz-neoforge-1.21.1-1.1.8-hotfix-r3.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/tacz-neoforge-1.21.1-1.1.8-hotfix-r3.jar"
                   },
                   {
                       "LocalPath":  "mods/taczjs-neoforge-1.4.2+mc1.21.1.jar",
@@ -686,16 +718,16 @@
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/trashslot-neoforge-1.21.1-21.1.11.jar"
                   },
                   {
-                      "LocalPath":  "mods/wits-1.3.0+1.21-neoforge.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/wits-1.3.0+1.21-neoforge.jar"
+                      "LocalPath":  "mods/wits-neoforge-1.3.1.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/wits-neoforge-1.3.1.jar"
                   },
                   {
-                      "LocalPath":  "mods/xaerominimap-neoforge-1.21.1-26.1.0.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/xaerominimap-neoforge-1.21.1-26.1.0.jar"
+                      "LocalPath":  "mods/xaerominimap-neoforge-1.21.1-26.2.1.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/xaerominimap-neoforge-1.21.1-26.2.1.jar"
                   },
                   {
-                      "LocalPath":  "mods/xaeroworldmap-neoforge-1.21.1-1.41.0.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/xaeroworldmap-neoforge-1.21.1-1.41.0.jar"
+                      "LocalPath":  "mods/xaeroworldmap-neoforge-1.21.1-1.42.0.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/xaeroworldmap-neoforge-1.21.1-1.42.0.jar"
                   },
                   {
                       "LocalPath":  "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
@@ -720,6 +752,30 @@
                   {
                       "LocalPath":  "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+                  },
+                  {
+                      "LocalPath":  "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+                  },
+                  {
+                      "LocalPath":  "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
+                  },
+                  {
+                      "LocalPath":  "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
+                  },
+                  {
+                      "LocalPath":  "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
+                  },
+                  {
+                      "LocalPath":  "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+                  },
+                  {
+                      "LocalPath":  "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar"
                   },
                   {
                       "LocalPath":  "config/paxi/datapack_load_order.json",
@@ -772,14 +828,6 @@
                   {
                       "LocalPath":  "kubejs/startup_scripts/main.js",
                       "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/kubejs/startup_scripts/main.js"
-                  },
-                  {
-                      "LocalPath":  "mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar"
-                  },
-                  {
-                      "LocalPath":  "mods/clientsort-neoforge-2.2.2+1.21.1.jar",
-                      "RemoteUrl":  "https://raw.githubusercontent.com/hedgehodg01/Sborka-launcher/main/mods/clientsort-neoforge-2.2.2+1.21.1.jar"
                   }
               ]
 }
